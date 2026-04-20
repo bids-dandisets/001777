@@ -1,0 +1,20 @@
+{
+    "Name": "Astrocytes mediate the dopaminergic modulation of tonic GABAergic signaling",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Binary files of electrophysiology data",
+    "DatasetType": "raw",
+    "Authors": [
+        "Simmons, DeNard",
+        "Surmeier, James"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev6+gf29fa0039",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
